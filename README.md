@@ -11,7 +11,7 @@ Multiple Transaction Method Support
 ```
 
 
-#To learn more about the website and what stacks does it use
+## To learn more about the website and what stacks does it use
 take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
